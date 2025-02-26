@@ -1,4 +1,7 @@
 ### **Key Concepts in Modularity and Software Design**  
+Modularity in software design refers to the practice of breaking a software system into smaller, independent, and manageable components called modules. Each module performs a specific function and can be developed, tested, and maintained separately. This approach enhances scalability, maintainability, and reusability in software development.
+
+Each module should have high cohesion (perform a single task effectively) and low coupling (minimal dependency on other modules) to ensure modularity.
 
 In modular software design, several principles and metrics are used to assess the effectiveness of module organization. The following are key attributes:  
 
